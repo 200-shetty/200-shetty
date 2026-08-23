@@ -60,7 +60,7 @@ Explainability + fairness framework on graph reasoning; reduced statistical pari
 ---
 ## 🏆 Highlights
  
-- 🥇 **1st place, HerHackathon 2025 (Beiersdorf)** — led a team of ~20 teams to build a RAG agent letting non-technical teams self-serve insights.
+- 🥇 **1st place, HerHackathon 2025 (Beiersdorf)**
 
 ---
 

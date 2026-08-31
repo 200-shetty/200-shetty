@@ -2,7 +2,7 @@
 
 **Data Engineer / Analyst** 
 ---
-working across engineering, analytics, and ML. I care about data quality and building things people actually use.
+Currently working across engineering, analytics, and ML. 
 ---
 🎓 Finishing my **M.Sc. in Data & Knowledge Engineering** (OVGU)
 ---

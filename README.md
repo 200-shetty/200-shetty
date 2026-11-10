@@ -1,6 +1,6 @@
 # Hi, I'm Gnanashri! 👋
 
-**Data Engineer / Analyst** 
+**Data Engineer** 
 ---
 Currently working across engineering, analytics, and ML. 
 

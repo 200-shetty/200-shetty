@@ -1,4 +1,4 @@
-# Hi, I'm Gnanashri! 👋
+# Hi, I'm Setty! 👋
 
 **Data Engineer** 
 ---

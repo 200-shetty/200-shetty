@@ -3,10 +3,8 @@
 **Data Engineer / Analyst** 
 ---
 Currently working across engineering, analytics, and ML. 
----
-🎓 Finishing my **M.Sc. in Data & Knowledge Engineering** (OVGU)
----
-🌍 Based in Hamburg, Germany 
+
+🌍 Based in Düsseldorf, Germany 
 
 📫 [LinkedIn](https://linkedin.com/in/gnanashri-kota-venkatesh-429666131) · kotavenkateshgnanashri@gmail.com
 
